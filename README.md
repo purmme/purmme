@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @purmme
 - 👀 I’m interested in code am beginner
-- 🌱 I’m currently learning sof-Eng
+- 🌱 I'm want learning com-sic
 - 📫 Contact : purmme8@gmail.com
 
 <!---
